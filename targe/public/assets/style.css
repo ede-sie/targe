@@ -1,0 +1,30 @@
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 60px; 
+} 
+ 
+h1, h2 { 
+    color: #333; 
+} 
+ 
+input, textarea, select { 
+    width: 300px; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+} 
+ 
+button { 
+    background: #056e0e; 
+    color: white; 
+    padding: 10px 10px; 
+    border: none; 
+    cursor: pointer; 
+} 
+ 
+button:hover { 
+    background: #6934e4; 
+} 
+ 
+.error { 
+    color: red; 
+}
